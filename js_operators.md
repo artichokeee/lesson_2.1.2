@@ -24,5 +24,5 @@
 let stringToNumber = "example";
 stringToNumber = Number(stringToNumber);
 
-console.log(typeof stringToNumber); //убдеиться, что новый тип данных number
+console.log(typeof stringToNumber); //убедиться, что новый тип данных number
 ```
